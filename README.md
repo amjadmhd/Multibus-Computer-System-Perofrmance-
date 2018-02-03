@@ -12,9 +12,9 @@ In this example we consider a system with 4 processors, 4 common memories and 2 
 * The system performance is evaluated as the count of processors executing or accessing the common memory.
 
 The system is modeled as a markov chain, the system is in a state "A-B-C" where:
-A: The count of processors accessing common memory.
-B: The count of processors waiting for memories.
-C: The count of processors waiting for a free bus.
++ A: The count of processors accessing common memory.
++ B: The count of processors waiting for memories.
++ C: The count of processors waiting for a free bus.
 
 ![alt text](Multibus-Computer-System-Perofrmance-/img/MarkovChain442.PNG)
 
