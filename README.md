@@ -16,6 +16,6 @@ A: The count of processors accessing common memory.
 B: The count of processors waiting for memories.
 C: The count of processors waiting for a free bus.
 
-![alt text][Multibus-Computer-System-Perofrmance-/img/MarkovChain442.PNG]
+![alt text](Multibus-Computer-System-Perofrmance-/img/MarkovChain442.PNG)
 
 
