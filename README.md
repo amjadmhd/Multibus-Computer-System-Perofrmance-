@@ -18,4 +18,8 @@ The system is modeled as a markov chain, the system is in a state "A-B-C" where:
 
 ![alt text](https://github.com/amjadmhd/Multibus-Computer-System-Perofrmance-/blob/master/img/MarkovChain442.PNG)
 
+We evaluate the performance of the system by assigning a reward for each state that corresponds to the number of active processors. We then calculate the "Expected Steady State Reward" for the system.
 
+We consider Rho = Mu / Lambda ranging from 0 to 1.
+
+![alt text](https://github.com/amjadmhd/Multibus-Computer-System-Perofrmance-/blob/master/img/plot_442.png)
