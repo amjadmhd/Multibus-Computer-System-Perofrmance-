@@ -16,6 +16,6 @@ The system is modeled as a markov chain, the system is in a state "A-B-C" where:
 + B: The count of processors waiting for memories.
 + C: The count of processors waiting for a free bus.
 
-![alt text](Multibus-Computer-System-Perofrmance-/img/MarkovChain442.PNG)
+![alt text](https://github.com/amjadmhd/Multibus-Computer-System-Perofrmance-/blob/master/img/MarkovChain442.PNG)
 
 
