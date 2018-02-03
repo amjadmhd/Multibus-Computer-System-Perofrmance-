@@ -1,0 +1,150 @@
+ 4P-4CM-2B
+
+rho=0.020000
+      perf(rho):   3.9988e+000
+
+rho=0.040000
+      perf(rho):   3.9954e+000
+
+rho=0.060000
+      perf(rho):   3.9897e+000
+
+rho=0.080000
+      perf(rho):   3.9821e+000
+
+rho=0.100000
+      perf(rho):   3.9726e+000
+
+rho=0.120000
+      perf(rho):   3.9614e+000
+
+rho=0.140000
+      perf(rho):   3.9486e+000
+
+rho=0.160000
+      perf(rho):   3.9344e+000
+
+rho=0.180000
+      perf(rho):   3.9189e+000
+
+rho=0.200000
+      perf(rho):   3.9023e+000
+
+rho=0.220000
+      perf(rho):   3.8846e+000
+
+rho=0.240000
+      perf(rho):   3.8661e+000
+
+rho=0.260000
+      perf(rho):   3.8469e+000
+
+rho=0.280000
+      perf(rho):   3.8269e+000
+
+rho=0.300000
+      perf(rho):   3.8065e+000
+
+rho=0.320000
+      perf(rho):   3.7856e+000
+
+rho=0.340000
+      perf(rho):   3.7644e+000
+
+rho=0.360000
+      perf(rho):   3.7429e+000
+
+rho=0.380000
+      perf(rho):   3.7212e+000
+
+rho=0.400000
+      perf(rho):   3.6994e+000
+
+rho=0.420000
+      perf(rho):   3.6774e+000
+
+rho=0.440000
+      perf(rho):   3.6555e+000
+
+rho=0.460000
+      perf(rho):   3.6336e+000
+
+rho=0.480000
+      perf(rho):   3.6118e+000
+
+rho=0.500000
+      perf(rho):   3.5901e+000
+
+rho=0.520000
+      perf(rho):   3.5686e+000
+
+rho=0.540000
+      perf(rho):   3.5472e+000
+
+rho=0.560000
+      perf(rho):   3.5260e+000
+
+rho=0.580000
+      perf(rho):   3.5051e+000
+
+rho=0.600000
+      perf(rho):   3.4844e+000
+
+rho=0.620000
+      perf(rho):   3.4639e+000
+
+rho=0.640000
+      perf(rho):   3.4437e+000
+
+rho=0.660000
+      perf(rho):   3.4238e+000
+
+rho=0.680000
+      perf(rho):   3.4042e+000
+
+rho=0.700000
+      perf(rho):   3.3849e+000
+
+rho=0.720000
+      perf(rho):   3.3659e+000
+
+rho=0.740000
+      perf(rho):   3.3472e+000
+
+rho=0.760000
+      perf(rho):   3.3288e+000
+
+rho=0.780000
+      perf(rho):   3.3108e+000
+
+rho=0.800000
+      perf(rho):   3.2930e+000
+
+rho=0.820000
+      perf(rho):   3.2755e+000
+
+rho=0.840000
+      perf(rho):   3.2584e+000
+
+rho=0.860000
+      perf(rho):   3.2416e+000
+
+rho=0.880000
+      perf(rho):   3.2250e+000
+
+rho=0.900000
+      perf(rho):   3.2088e+000
+
+rho=0.920000
+      perf(rho):   3.1929e+000
+
+rho=0.940000
+      perf(rho):   3.1773e+000
+
+rho=0.960000
+      perf(rho):   3.1620e+000
+
+rho=0.980000
+      perf(rho):   3.1469e+000
+
+
